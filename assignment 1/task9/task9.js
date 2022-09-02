@@ -1,0 +1,10 @@
+var a=3;
+var b=5;
+var c=a-b;
+var d=a*b;
+var e=a/b;
+var f=a%b;
+document.write("subtract of " + a + " and " + b + " is " + " " + c + "</br>");
+document.write("multiplication of "+a+" and "+b+" is "+d+ "</br>");
+document.write("division of "+a+" and "+b+" is "+e+ "</br>"); 
+document.write("modulus of "+a+" and "+b+" is "+f+ "</br>");
